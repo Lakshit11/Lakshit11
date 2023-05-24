@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Lakshit11
-- 👀 I’m interested in Data Science, Machine Learning, Deep Learning, Artificial Intelligence
-- 🌱 I’m currently learning Machine Learning and Deep Learning in Python
-- 💞️ I’m looking to collaborate on any python related work or help that I can provide
+- 👀 I’m interested in Data Science, Machine Learning, Deep Learning, Artificial Intelligence.
+- 🌱 I’m currently pursuing Masters in Big Data Analytics.
+- 👨🏻‍💻 My skills include Python, SQL, Machine Learning and Deep Learning, and visualization tools such as Power BI and Tableau.
+- 💞️ I’m looking to collaborate on any Machine Learning or Data Science related work or help that I can provide.
 - 📫 How to reach me : lakshitgupta1108@gmail.com
 
 <!---
